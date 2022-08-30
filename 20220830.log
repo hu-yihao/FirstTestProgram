@@ -1,0 +1,46 @@
+2022-08-30 12:12:55 INFO  [main] com.ceshiren.MySUT.<init>(MySUT.java:44) -- Open 两个加法的测试用例 
+2022-08-30 12:12:55 INFO  [main] com.ceshiren.MySUT.<init>(MySUT.java:44) -- Open 两个数加法测试方法用例 
+2022-08-30 12:12:55 INFO  [main] com.ceshiren.base.MySUTTest.sumTest(MySUTTest.java:20) -- 1+2=3
+2022-08-30 13:51:16 INFO  [main] com.ceshiren.MySUT.<init>(MySUT.java:44) -- Open 两个加法的测试用例 
+2022-08-30 13:51:16 INFO  [main] com.ceshiren.MySUT.<init>(MySUT.java:44) -- Open 两个数加法测试方法用例 
+2022-08-30 13:51:16 INFO  [main] com.ceshiren.base.MySUTTest.sumTest(MySUTTest.java:20) -- 1+2=3
+2022-08-30 13:56:03 INFO  [main] com.ceshiren.MySUT.<init>(MySUT.java:44) -- Open 两个加法的测试用例 
+2022-08-30 13:56:03 INFO  [main] com.ceshiren.MySUT.initId(MySUT.java:50) -- Generate ID：012537f2-a70d-4575-9cc6-056201bc4e9e 
+2022-08-30 13:56:03 INFO  [main] com.ceshiren.base.MySUTTest.beforeEach(MySUTTest.java:25) -- id生成成功
+2022-08-30 13:56:03 INFO  [main] com.ceshiren.MySUT.<init>(MySUT.java:44) -- Open 两个数加法测试方法用例 
+2022-08-30 13:56:03 INFO  [main] com.ceshiren.base.MySUTTest.sumTest(MySUTTest.java:20) -- 1+2=3
+2022-08-30 14:03:35 INFO  [main] com.ceshiren.MySUT.<init>(MySUT.java:44) -- Open 两个加法的测试用例 
+2022-08-30 14:03:35 INFO  [main] com.ceshiren.MySUT.initId(MySUT.java:50) -- Generate ID：d54686d0-31e5-49df-b651-730630b5fe2d 
+2022-08-30 14:03:35 INFO  [main] com.ceshiren.base.MySUTTest.beforeEach(MySUTTest.java:34) -- id生成成功
+2022-08-30 14:03:35 INFO  [main] com.ceshiren.base.MySUTTest.sumTest(MySUTTest.java:21) -- 1+2=3
+2022-08-30 14:06:01 INFO  [main] com.ceshiren.MySUT.<init>(MySUT.java:44) -- Open 两个加法的测试用例 
+2022-08-30 14:06:01 INFO  [main] com.ceshiren.MySUT.initId(MySUT.java:50) -- Generate ID：07a65537-27b6-44c1-b910-3ef27aa368e1 
+2022-08-30 14:06:01 INFO  [main] com.ceshiren.base.MySUTTest.beforeEach(MySUTTest.java:35) -- id生成成功
+2022-08-30 14:06:01 INFO  [main] com.ceshiren.base.MySUTTest.sumTest(MySUTTest.java:21) -- 1+2=3
+2022-08-30 14:06:25 INFO  [main] com.ceshiren.MySUT.<init>(MySUT.java:44) -- Open 两个加法的测试用例 
+2022-08-30 14:06:25 INFO  [main] com.ceshiren.MySUT.initId(MySUT.java:50) -- Generate ID：ce5ab990-2a4d-476d-9c20-3a268d7de55f 
+2022-08-30 14:06:25 INFO  [main] com.ceshiren.base.MySUTTest.beforeEach(MySUTTest.java:35) -- id生成成功
+2022-08-30 14:06:25 INFO  [main] com.ceshiren.base.MySUTTest.sumTest2(MySUTTest.java:28) -- 99+2=101
+2022-08-30 14:11:02 INFO  [main] com.ceshiren.MySUT.<init>(MySUT.java:44) -- Open 两个加法的测试用例 
+2022-08-30 14:11:02 INFO  [main] com.ceshiren.MySUT.initId(MySUT.java:50) -- Generate ID：9491e2a6-acdf-40df-875d-1ef146457937 
+2022-08-30 14:11:02 INFO  [main] com.ceshiren.base.MySUTTest.beforeEach(MySUTTest.java:35) -- id生成成功
+2022-08-30 14:11:02 INFO  [main] com.ceshiren.base.MySUTTest.sumTest(MySUTTest.java:21) -- 1+2=3
+2022-08-30 14:20:55 INFO  [main] com.ceshiren.MySUT.<init>(MySUT.java:44) -- Open 两个加法测试用例 
+2022-08-30 14:20:55 INFO  [main] com.ceshiren.MySUT.initId(MySUT.java:50) -- Generate ID：24d34d9b-ab1c-4b4b-b47d-3b3860556c6b 
+2022-08-30 14:20:55 INFO  [main] com.ceshiren.base.MySUTTest.beforeEach(MySUTTest.java:37) -- id生成成功
+2022-08-30 14:20:55 INFO  [main] com.ceshiren.base.MySUTTest.sumTest(MySUTTest.java:23) -- 1+2=3
+2022-08-30 14:20:55 INFO  [main] com.ceshiren.MySUT.destroyId(MySUT.java:58) -- Release ID: 24d34d9b-ab1c-4b4b-b47d-3b3860556c6b 
+2022-08-30 14:20:58 INFO  [main] com.ceshiren.MySUT.<init>(MySUT.java:44) -- Open 两个加法测试用例 
+2022-08-30 14:20:59 INFO  [main] com.ceshiren.MySUT.initId(MySUT.java:50) -- Generate ID：ee9c885e-c770-4c96-9a91-9be7c7794461 
+2022-08-30 14:20:59 INFO  [main] com.ceshiren.base.MySUTTest.beforeEach(MySUTTest.java:37) -- id生成成功
+2022-08-30 14:20:59 INFO  [main] com.ceshiren.base.MySUTTest.sumTest(MySUTTest.java:23) -- 1+2=3
+2022-08-30 14:20:59 INFO  [main] com.ceshiren.MySUT.destroyId(MySUT.java:58) -- Release ID: ee9c885e-c770-4c96-9a91-9be7c7794461 
+2022-08-30 14:28:02 INFO  [main] com.ceshiren.MySUT.<init>(MySUT.java:44) -- Open �����ӷ��������� 
+2022-08-30 14:28:02 INFO  [main] com.ceshiren.MySUT.initId(MySUT.java:50) -- Generate ID��a5a4937a-432a-4676-b7a9-53d9c56b8011 
+2022-08-30 14:28:02 INFO  [main] com.ceshiren.base.MySUTTest.beforeEach(MySUTTest.java:37) -- id���ɳɹ�
+2022-08-30 14:28:02 INFO  [main] com.ceshiren.base.MySUTTest.sumTest(MySUTTest.java:23) -- 1+2=3
+2022-08-30 14:28:02 INFO  [main] com.ceshiren.MySUT.destroyId(MySUT.java:58) -- Release ID: a5a4937a-432a-4676-b7a9-53d9c56b8011 
+2022-08-30 14:28:03 INFO  [main] com.ceshiren.MySUT.initId(MySUT.java:50) -- Generate ID��cb01e4eb-a9fe-46ba-bc6d-1b8efdf3e319 
+2022-08-30 14:28:03 INFO  [main] com.ceshiren.base.MySUTTest.beforeEach(MySUTTest.java:37) -- id���ɳɹ�
+2022-08-30 14:28:03 INFO  [main] com.ceshiren.base.MySUTTest.sumTest2(MySUTTest.java:30) -- 99+2=101
+2022-08-30 14:28:03 INFO  [main] com.ceshiren.MySUT.destroyId(MySUT.java:58) -- Release ID: cb01e4eb-a9fe-46ba-bc6d-1b8efdf3e319 
